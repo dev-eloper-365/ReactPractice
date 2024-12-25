@@ -1,3 +1,9 @@
+---
+## Preview
+
+![Nike Product Page Preview](./Product%20Page.png)
+
+---
 # Nike Product Page 🎨⚽
 
 Welcome to the **Nike Product Page** project! This is a simple and elegant practice project built using React. It showcases a minimalist product page design for Nike, including product highlights, navigation, and a shopping call-to-action.
@@ -61,11 +67,6 @@ Follow these steps to run this project locally:
 
 ---
 
-## Preview 🌆
-
-![Nike Product Page Preview](./Product%20Page.png)
-
----
 
 ## Future Enhancements 🎡
 
